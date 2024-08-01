@@ -1,0 +1,79 @@
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\ChangeHighlightColorInWindows.exe.config
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\ChangeHighlightColorInWindows.exe
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\ChangeHighlightColorInWindows.pdb
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\MainWindow.g.cs
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\App.g.cs
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows_MarkupCompile.cache
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows_MarkupCompile.lref
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\MainWindow.baml
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.g.resources
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.Properties.Resources.resources
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.csproj.GenerateResource.cache
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.exe
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.pdb
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignColors.dll
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\App.baml
+C:\Users\Виктория\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHi.4093F853.Up2Date
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\ChangeHighlightColorInWindows.exe.config
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\ChangeHighlightColorInWindows.exe
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\ChangeHighlightColorInWindows.pdb
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignColors.dll
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.csproj.AssemblyReference.cache
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\MainWindow.g.cs
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\App.g.cs
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows_MarkupCompile.cache
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows_MarkupCompile.lref
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\App.baml
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\MainWindow.baml
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.g.resources
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.Properties.Resources.resources
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.csproj.GenerateResource.cache
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.csproj.CoreCompileInputs.cache
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHi.4093F853.Up2Date
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.exe
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.pdb
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\MessageInformation.g.cs
+C:\Users\Autoconst\Desktop\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\MessageInformation.baml
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\ChangeHighlightColorInWindows.exe.config
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\ChangeHighlightColorInWindows.exe
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\ChangeHighlightColorInWindows.pdb
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignColors.dll
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.csproj.AssemblyReference.cache
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\MainWindow.g.cs
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\MessageInformation.g.cs
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\App.g.cs
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows_MarkupCompile.cache
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows_MarkupCompile.lref
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\App.baml
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\MainWindow.baml
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\MessageInformation.baml
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.g.resources
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.Properties.Resources.resources
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.csproj.GenerateResource.cache
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.csproj.CoreCompileInputs.cache
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHi.4093F853.Up2Date
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.exe
+C:\Users\Autoconst\Desktop\отдельные проги\мои проги\ChangeHighlightColorInWindows\ChangeHighlightColorInWindows\obj\Debug\ChangeHighlightColorInWindows.pdb
