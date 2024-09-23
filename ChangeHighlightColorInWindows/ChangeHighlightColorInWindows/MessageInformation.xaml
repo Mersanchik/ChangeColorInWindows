@@ -1,0 +1,58 @@
+﻿<Window x:Class="ChangeHighlightColorInWindows.MessageInformation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChangeHighlightColorInWindows"
+        mc:Ignorable="d"
+        Height="270" Width="430" WindowStyle="None"
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize" 
+        Background="Transparent" AllowsTransparency="True">
+    <Border Background="#272540">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="33"/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Right"
+             Margin="0 0 5 0">
+                <Button x:Name="btWrapProgs" FontSize="18" Background="Transparent"
+             BorderBrush="Transparent"
+              Click="btWrapProgs_Click" Content="―"/>
+
+
+                <Button x:Name="btCloseProgs" FontSize="18"
+              Background="Transparent" Click="btCloseProgs_Click"
+             BorderBrush="Transparent" Content="✘"/>
+
+            </StackPanel>
+            
+            <StackPanel Margin="5 0 10 0" Grid.Row="1">
+                <TextBlock x:Name="tbInformation" FontSize="18" Foreground="White"
+                       TextAlignment="Center">
+                    Перед использованием приложения необходимо
+                    <LineBreak/>
+                    прочитать документ.
+                    <LineBreak/>
+                    Для этого нажмите кнопку 'Открыть документ'.
+                    <LineBreak/>
+                    В данном документе содержиться
+                    <LineBreak/>
+                    последовательность действий.
+                </TextBlock>
+            </StackPanel>
+
+        <StackPanel VerticalAlignment="Bottom" Margin="5 0 5 10" Grid.Row="2">
+                <Button x:Name="btOpenFile" Content="Открыть документ"
+                        Height="30" Foreground="White" FontSize="18"
+                        Click="btOpenFile_Click" Margin="5 0 5 10" Background="#395B30"/>
+
+                <Button x:Name="btOpenWindow" Content="Перейти к приложению"
+                        Height="30" Foreground="White" FontSize="18"  Margin="5 0 5 0"
+                        Click="btOpenWindow_Click" Background="#395B30"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>
